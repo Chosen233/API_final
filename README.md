@@ -72,11 +72,17 @@
 
 
 
-使用到的API
-- 百度AI语音技术API
-    - [长语音识别](https://ai.baidu.com/tech/speech/lsr)
-        - [技术文档](https://ai.baidu.com/docs/#/ASR-Online-Python-SDK/top)
+## 使用到的API
+- 百度AI语音技术
     - [语音合成](https://ai.baidu.com/tech/speech/tts)
         - [技术文档](https://ai.baidu.com/docs#/TTS-Online-Python-SDK/top)
-- [百度AI知识图谱API](https://ai.baidu.com/tech/cognitive)
-    - [知识问答](https://ai.baidu.com/tech/kg/wenda)
+    - [语音识别](https://ai.baidu.com/tech/speech)
+        - [技术文档](https://ai.baidu.com/docs#/ASR-Online-Python-SDK/top)
+- 百度AI图像技术
+    - [动物识别](https://ai.baidu.com/tech/imagerecognition/animal)
+        - [技术文档](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/b47b02f1)
+    - [植物识别](https://ai.baidu.com/tech/imagerecognition/plant)
+        - [技术文档](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/714d418f)
+    - [图像效果增强](https://ai.baidu.com/tech/imageprocess)
+        [输入链接说明](https://ai.baidu.com/docs#/ImageProcess-Python-SDK/top)
+
