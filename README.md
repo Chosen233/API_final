@@ -106,43 +106,8 @@
     - 西伯利亚虎精确度：57%
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1204/101251_c4b09712_1532279.png "屏幕快照 2019-12-04 10.08.21.png")
 
-- [获取access_token示例代码](https://ai.baidu.com/docs#/Auth/top)
-```
-# encoding:utf-8
-import requests 
-
-# client_id 为官网获取的AK， client_secret 为官网获取的SK
-host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=【官网获取的AK】&client_secret=【官网获取的SK】'
-response = requests.get(host)
-if response:
-    print(response.json())
-```
-- 调用百度AI动物识别的API代码
-
-```
-
-""" 读取图片 """
-def get_file_content(filePath):
-    with open(filePath, 'rb') as fp:
-        return fp.read()
-
-image = get_file_content('example.jpg')
-
-""" 调用动物识别 """
-client.animalDetect(image);
-
-""" 如果有可选参数 """
-options = {}
-options["top_num"] = 3
-options["baike_num"] = 5
-
-""" 带参数调用动物识别 """
-client.animalDetect(image, options)
-
-
-```
-
-
+- 百度AI植物识别API
+    - 普陀鹅耳枥：
 
 
 ## API使用比较分析
