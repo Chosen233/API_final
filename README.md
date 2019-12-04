@@ -105,8 +105,7 @@
 
 
 ## 产品架构图
-![产品架构图](https://images.gitee.com/uploads/images/2019/1203/233301_43b592ed_1532279.jpeg "api产品架构图.jpg")
-
+![产品架构图](https://images.gitee.com/uploads/images/2019/1204/170230_3785fb35_1532279.jpeg "api产品架构图-2.jpg")
 
 # PART2 原型
 
@@ -124,15 +123,16 @@
 ## 使用水平 
 - [百度AI动物识别API](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/b47b02f1)
     - 西伯利亚虎准确度：57%
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1204/101251_c4b09712_1532279.png "屏幕快照 2019-12-04 10.08.21.png")
+![动物识别代码调用](https://images.gitee.com/uploads/images/2019/1204/101251_c4b09712_1532279.png "屏幕快照 2019-12-04 10.08.21.png")
 
 - [百度AI植物识别API](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/714d418f)
     - 大叶金顶杜鹃准确度：80%
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1204/103926_c3efc0dd_1532279.png "屏幕快照 2019-12-04 10.37.56.png")
+![植物识别代码调用](https://images.gitee.com/uploads/images/2019/1204/103926_c3efc0dd_1532279.png "屏幕快照 2019-12-04 10.37.56.png")
 
-- 百度语音合成API
-
-- 百度语音识别API
+- [百度AI通用物体识别API](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/0358318c)
+    - 玻璃准确度：44%
+![通用物体识别代码调用](https://images.gitee.com/uploads/images/2019/1204/172033_12b247e6_1532279.png "通用物体识别代码调用.png")
+![通用物体识别返回结果](https://images.gitee.com/uploads/images/2019/1204/172254_a2e562c7_1532279.png "通用物体识别返回结果.png")
 
 
 ## 使用比较分析
