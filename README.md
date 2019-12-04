@@ -71,10 +71,8 @@
 
 ## 核心价值
 - 动物识别：最小可用产品为拍照／上传动物的图片，返回该动物的名称、详细信息及可信度。
-- 植物识别：最小可用产品为为拍照／上传植物的图片，返回该植物的名称、详细信息及可信度。
-- 语音合成：最小可用产品为能够实现有声读物功能
-- 语音识别：最小可用产品为能够准确识别用户的需求。
-
+- 植物识别：最小可用产品为拍照／上传植物的图片，返回该植物的名称、详细信息及可信度。
+- 图像通用物体和场景识别：最小可用产品为拍照／上传动物的图片，返回该物品的名称、详细信息。
 
 ## 核心价值与用户痛点
 - 在外活动的时候，家长想教育孩子一些知识时偶尔会遇到无法回答的问题，无法给孩子进行详细的说明。
@@ -157,13 +155,11 @@
 
 
 ## 使用到的API
-- 百度AI语音技术
-    - [语音合成](https://ai.baidu.com/tech/speech/tts)
-        - [技术文档](https://ai.baidu.com/docs#/TTS-Online-Python-SDK/top)
-    - [语音识别](https://ai.baidu.com/tech/speech)
-        - [技术文档](https://ai.baidu.com/docs#/ASR-Online-Python-SDK/top)
+
 - 百度AI图像技术
     - [动物识别](https://ai.baidu.com/tech/imagerecognition/animal)
         - [技术文档](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/b47b02f1)
     - [植物识别](https://ai.baidu.com/tech/imagerecognition/plant)
         - [技术文档](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/714d418f)
+    - [通用物体识别](https://ai.baidu.com/tech/imagerecognition/general)
+        - [技术文档](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/0358318c)
