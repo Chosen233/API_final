@@ -102,12 +102,17 @@
 # PART3 API产品使用关键AI或机器学习之API的输出入展示
 
 ## API使用水平 
-- 百度AI动物识别API
-    - 西伯利亚虎精确度：57%
+- [百度AI动物识别API](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/b47b02f1)
+    - 西伯利亚虎准确度：57%
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1204/101251_c4b09712_1532279.png "屏幕快照 2019-12-04 10.08.21.png")
 
-- 百度AI植物识别API
-    - 普陀鹅耳枥：
+- [百度AI植物识别API](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/714d418f)
+    - 大叶金顶杜鹃准确度：80%
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1204/103926_c3efc0dd_1532279.png "屏幕快照 2019-12-04 10.37.56.png")
+
+- 百度语音合成API
+
+- 百度语音识别API
 
 
 ## API使用比较分析
