@@ -1,4 +1,4 @@
-# 项目名称：学前班
+# 项目名称：动物学前班
 # Product Requirement（产品说明文档）
 
 | Title                     | Content |
@@ -104,7 +104,7 @@
 
 
 ## 产品架构图
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1205/225542_d6f7ce78_1532279.jpeg "api产品架构图 (1).jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1205/225907_a18df0f1_1532279.jpeg "api产品架构图 (1).jpg")
 
 # PART2 原型
 
@@ -124,14 +124,9 @@
     - 西伯利亚虎准确度：57%
 ![动物识别代码调用](https://images.gitee.com/uploads/images/2019/1204/101251_c4b09712_1532279.png "屏幕快照 2019-12-04 10.08.21.png")
 
-- [百度AI植物识别API](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/714d418f)
-    - 大叶金顶杜鹃准确度：80%
-![植物识别代码调用](https://images.gitee.com/uploads/images/2019/1204/103926_c3efc0dd_1532279.png "屏幕快照 2019-12-04 10.37.56.png")
-
-- [百度AI通用物体识别API](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/0358318c)
-    - 玻璃准确度：44%
-![通用物体识别代码调用](https://images.gitee.com/uploads/images/2019/1204/172033_12b247e6_1532279.png "通用物体识别代码调用.png")
-![通用物体识别返回结果](https://images.gitee.com/uploads/images/2019/1204/172254_a2e562c7_1532279.png "通用物体识别返回结果.png")
+- [百度AI语音合成API](https://ai.baidu.com/ai-doc/SPEECH/Gk38y8lzk)
+    - [代码使用水平情况展示](https://gitee.com/NFUNM068/API_ML_AI/blob/master/code/API_baidu_speech.py)
+![语音合成代码调用](https://images.gitee.com/uploads/images/2019/1205/232309_70ef1853_1532279.png "屏幕快照 2019-12-05 23.22.13.png")
 
 
 ## 使用比较分析
