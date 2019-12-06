@@ -163,11 +163,8 @@
 ## 加分项 
 
 
-## 使用到的API
-
-- 百度AI图像技术
-    - [动物识别](https://ai.baidu.com/tech/imagerecognition/animal)
-        - [技术文档](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/b47b02f1)
-    - [语音合成](https://ai.baidu.com/tech/speech/tts)
-        - [技术文档](https://ai.baidu.com/ai-doc/SPEECH/2k38y8iut)
-
+## 清单
+- [百度动物识别API代码片段下载](https://gitee.com/NFUNM068/API_ML_AI/blob/master/code/API_baidu_animals.py)
+- [百度语音合成API代码片段下载](https://gitee.com/NFUNM068/API_ML_AI/blob/master/code/API_baidu_speech.py)
+- [动物识别技术文档](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/b47b02f1)
+- [语音合成技术文档](https://ai.baidu.com/ai-doc/SPEECH/2k38y8iut)
