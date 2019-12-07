@@ -122,6 +122,10 @@
 
 ## 信息设计
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1207/162758_8ba14c53_1532279.jpeg "IMG_6590.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1207/163123_e5e61dd1_1532279.jpeg "IMG_6594.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1207/163408_7e828e1a_1532279.jpeg "IMG_6598.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1207/163602_6b592b8a_1532279.jpeg "IMG_6602.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1207/163706_7011a6eb_1532279.jpeg "IMG_6606.jpg")
 
 ## 原型文档
 - [动物学前班原型](https://u9mcwq.axshare.com)
