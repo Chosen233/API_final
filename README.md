@@ -194,7 +194,8 @@
 
 
 ## 加分项 
-
+- [百度动物识别API代码片段下载](https://gitee.com/NFUNM068/API_ML_AI/blob/master/code/API_baidu_animals.py)
+- [百度语音合成API代码片段下载](https://gitee.com/NFUNM068/API_ML_AI/blob/master/code/API_baidu_speech.py)
 
 ## 清单
 - [百度动物识别API代码片段下载](https://gitee.com/NFUNM068/API_ML_AI/blob/master/code/API_baidu_animals.py)
