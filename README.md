@@ -114,10 +114,17 @@
 # PART2 原型
 
 ## 交互及界面设计
+- [动物学前班产品原型](https://u9mcwq.axshare.com)，若该链接加载过慢，请[点击此处](http://nfunm068.gitee.io/animal_preschool_app)
+- 百度AI动物识别API：在相机处，识别动物中使用到。
+- 百度AI语音合成API：在动物故事中使用到，并且添加了语速以及声音可选项。
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1207/154225_4585dfaa_1532279.jpeg "IMG_6586.jpg")
+
 
 ## 信息设计
 
 ## 原型文档
+- [动物学前班原型](https://u9mcwq.axshare.com)
+- [动物学前班原型下载](https://gitee.com/NFUNM068/animal_preschool_app)
 
 ## 口头操作说明
 
@@ -175,3 +182,5 @@
 - [百度语音合成API代码片段下载](https://gitee.com/NFUNM068/API_ML_AI/blob/master/code/API_baidu_speech.py)
 - [动物识别技术文档](https://ai.baidu.com/docs#/ImageClassify-Python-SDK/b47b02f1)
 - [语音合成技术文档](https://ai.baidu.com/ai-doc/SPEECH/2k38y8iut)
+- [动物学前班原型](https://u9mcwq.axshare.com)
+- [动物学前班原型下载](https://gitee.com/NFUNM068/animal_preschool_app)
