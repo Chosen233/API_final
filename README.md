@@ -121,6 +121,7 @@
 
 
 ## 信息设计
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1207/162758_8ba14c53_1532279.jpeg "IMG_6590.jpg")
 
 ## 原型文档
 - [动物学前班原型](https://u9mcwq.axshare.com)
