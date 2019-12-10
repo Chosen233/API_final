@@ -5,7 +5,7 @@
 | ------------------------- | ------- |
 | Target release(发布日期)  | 2019/11 |
 | Epic(史诗名称)            | 动物学前班 |
-| Document status(文档状态) | 进行中  |
+| Document status(文档状态) | 基本完成  |
 | Document owner(文件主人)  | 潘卓祺  |
 | Designer(领头的设计师)    | 潘卓祺  |
 | Developer(领头的开发者)   | 潘卓祺  |
