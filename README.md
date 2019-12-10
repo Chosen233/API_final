@@ -108,7 +108,7 @@
 
 
 ## 产品架构图
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1210/224305_54ccd35f_1532279.jpeg "api产品架构图.jpg")
+![产品架构图](https://images.gitee.com/uploads/images/2019/1210/224305_54ccd35f_1532279.jpeg "api产品架构图.jpg")
 
 # PART2 原型
 
